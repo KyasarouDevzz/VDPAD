@@ -5,6 +5,8 @@ No?
 Weird.
 
 I'll be making this project for people who are in the same situation as me (no arcade here has ddr)
-Currently it basically does nothing it literally just opens a window with a camera, but here at KyasarouDevzz we accept anything, so that's progress baby!
+Currently its color detection is horrible (or maybe my camera is), but here at KyasarouDevzz we accept anything, so that's progress baby!
 
-What this project is is basically camera-based color detection and presses the key, but as stated before, it does nothing rn.
+What this project is is basically camera-based color detection and presses the key, but as stated before, it kinda sucks
+
+**MAKE SURE TO WEAR BLACK GLOVES! IT WON'T WORK WITHOUT BLACK GLOVES.**
